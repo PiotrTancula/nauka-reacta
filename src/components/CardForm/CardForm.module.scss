@@ -20,6 +20,10 @@ li {
     list-style-type: none;
 }
 
+#text {
+    padding: 0 30px;
+}
+
 @media (max-width: 767px) {
     .columnForm {
         display: flex;
